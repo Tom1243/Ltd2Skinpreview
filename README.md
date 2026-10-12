@@ -5,6 +5,11 @@ A simple Python GUI for creating, previewing, managing, and installing custom la
 
 Supports PNG, GIF, and WebM files, with automatic conversion and installation.
 
+
+
+
+
+
 Features
 
 PNG, GIF & WebM support — Import static or animated skins.
@@ -27,6 +32,10 @@ Build & Battle skins — Select different skins for each phase.
 
 One-click installation — Automatically installs selected skins into the Legion TD 2 directory.
 
+
+
+
+
 Requirements
 
 Windows
@@ -36,6 +45,10 @@ Python 3.10+
 Pillow (pip install pillow)
 
 FFmpeg installed and available in PATH for GIF/WebM conversion and WebM previews
+
+
+
+
 
 Getting Started
 
@@ -52,6 +65,10 @@ Select your Legion TD 2 installation folder if it isn't detected automatically.
 Import a skin, adjust its settings, and click Save Skin Settings.
 
 Choose your Build and/or Battle skin and click Apply Skins.
+
+
+
+
 
 Notes
 
