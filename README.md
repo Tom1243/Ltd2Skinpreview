@@ -1,6 +1,6 @@
 # Ltd2Skinpreview AI MADE (ofc)
 # Legion Lane Editor
-
+![Legion Lane Editor Screenshot](screenshot.png)
 A simple Python GUI for creating, previewing, managing, and installing custom lane skins for **Legion TD 2**.
 
 Supports PNG, GIF, and WebM files, with automatic conversion and installation.
