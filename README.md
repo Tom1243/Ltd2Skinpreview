@@ -43,6 +43,6 @@ Supports PNG, GIF, and WebM files, with automatic conversion and installation.
 - Animated WebM support may vary depending on the source file and transparency encoding.
 - This is an unofficial community tool and is not affiliated with Legion TD 2 or its developers.
 
-## License
+## CUSTOM BACKGROUND
 
-No license specified yet.
+For easy of use apply the provided red rectangle skin in game, and then line it up in debug mode in the tool, THEN SAVE
